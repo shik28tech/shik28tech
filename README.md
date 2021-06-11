@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flask along with Dotnet**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [https://github.com/shik28tech](Github)
 
 - 📫 How to reach me **Through any of the social media platforms**
 
