@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Through any of the social media platforms**
 
-- ⚡ Fun fact **"My perfect day would start with a good smile and end with peace**
+- ⚡ Fun fact **My perfect day would start with a good smile and end with peace**
 
 
 <h3 align="left">Languages and Tools:</h3>
