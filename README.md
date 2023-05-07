@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science Project**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
